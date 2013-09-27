@@ -2,7 +2,7 @@
 //  HTSymbolHook.m
 //  HTSymbolHook
 //
-//  Copyright (c) 2013 hatima.
+//  Copyright (c) 2013 hetima.
 //  MIT License
 
 /*

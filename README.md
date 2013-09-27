@@ -41,7 +41,7 @@ https://twitter.com/hetima
 
 # License
 HTSymbolHook  
-MIT License. Copyright (c) 2013 hatima.
+MIT License. Copyright (c) 2013 hetima.
 
 [mach_override](https://github.com/rentzsch/mach_override)  
 (c) 2003-2012 Jonathan 'Wolf' Rentzsch
